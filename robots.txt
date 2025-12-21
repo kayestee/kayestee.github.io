@@ -23,6 +23,10 @@ User-agent: psbot
 Disallow: /
 User-agent: yahoo-blogs/v3.9
 Disallow: /
+User-agent: Googlebot
+Allow: /
+User-agent: AdsBot-Google
+Allow: /
 User-agent: *
 Disallow:
 Crawl-delay: 120
