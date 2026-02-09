@@ -22,10 +22,6 @@ User-agent: psbot
 Disallow: /
 User-agent: yahoo-blogs/v3.9
 Disallow: /
-User-agent: GPTBot
-Disallow: /
-User-agent: CCBot
-Disallow: /
 User-agent: *
 Disallow:
 Crawl-delay: 120
